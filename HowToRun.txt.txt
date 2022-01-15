@@ -1,0 +1,2 @@
+Chọn mục kernel trên thanh toolbar 
+rồi nhập Restart & Run All để chạy
